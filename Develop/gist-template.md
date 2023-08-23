@@ -1,5 +1,5 @@
 # Regex Tutorial: Match URL with Regular Expressions
-Introductory paragraph (replace this with your text)
+This regex is used to locate special text patterns in URLs. It gives developers tips and tricks in order to make text patterns in URLs easily identifiable and how they can utilize those patterns in troubleshooting or developing.
 
 ## Summary
 A Regex proves useful in matching a URL in order to locate special text patterns.
